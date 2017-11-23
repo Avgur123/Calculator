@@ -7,7 +7,7 @@ import javax.swing.*;
 
 class CalcFrame extends JFrame{
     CalcFrame(){
-        setBounds(500,400,600,500);
+        setBounds(500,500,700,500);
         BorderLayout bl = new BorderLayout();
         GridLayout grl = new GridLayout(4,4);
         setLayout(bl);
